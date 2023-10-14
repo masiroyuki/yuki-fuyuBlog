@@ -1,6 +1,6 @@
 ---
-title: VSCodeのリモートトンネルでdevContainerを使いたい
-slug: VSCodeのリモートトンネルでdevContainerを使いたい
+title: VSCodeのリモートトンネルでDevContainerを使いたい
+slug: VSCodeのリモートトンネルでDevContainerを使いたい
 image: image/cover.png
 date: 2023-10-14 12:00:00+0000
 categories:
@@ -52,10 +52,8 @@ LinuxにVSCode入れて設定するだけです。
 
 リモートトンネルでDevContainerが使えると言いましたが、現状はサーバー側がLinuxでないと機能しません  
 
-また[vscode.dev](https://vscode.dev/)での利用は**非対応**となります。  
-つまりiPadやAndroidでは残念ながら使用できません。
-
-VSCodeがインストールできる環境を用意しましょう
+また[vscode.dev](https://vscode.dev/)では拡張機能にDevContainerをインストールできないため**非対応**となります。  
+つまりiPadやAndroidでは利用出来ません
 
 ## 環境構築
 
